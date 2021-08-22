@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_highlighted_button.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\highlighted_button.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_launch_screen.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\fragment_launch_screen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_play_screen.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\fragment_play_screen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_launch_screen_buttons.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\launch_screen_buttons.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_white_buttons.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\round_white_buttons.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_border.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\navigation_navigation_setup.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\navigation\\navigation_setup.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_difficulty.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\fragment_difficulty.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected_button_border.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\drawable\\selected_button_border.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_solver.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\fragment_solver.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\playSudoku\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_about.xml.flat",
+        "source": "D:\\Projects\\Android\\playSudoku\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    }
+]

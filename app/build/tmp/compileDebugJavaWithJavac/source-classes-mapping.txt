@@ -1,0 +1,2 @@
+com/sudoku/BuildConfig.java
+ com.sudoku.BuildConfig
