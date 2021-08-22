@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">The Sudoku</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sudoku">THE SUDOKU</string>
+    <string name="the_classic_puzzle">Our everyday\'s partner</string>
+    <string name="about">HELP</string>
+    <string name="solve_sudoku">Solve a Suduko</string>
+    <string name="play">Let\'s try it...</string>
+    <string name="solve">Solve</string>
+    <string name="sudoku_solver">Sudoku Solver</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="clear">CLR</string>
+    <string name="reset">RESET</string>
+    <string name="initial_timer">15:00</string>
+    <string name="filling_the_numbers">Filling the Numbers</string>
+    <string name="instructions_1">Click on the box you wish to fill the number in. Once it becomes grey, click on the number you want to fill from the input grid given below sudoku.</string>
+    <string name="playing_the_game">Playing the Game</string>
+    <string name="instructions_2">Fill the numbers like you fill them in a Sudoku matrix. If all the numbers you have filled fit into the solution, then you would see a message that you have solved the puzzle. To play again, press back button to reach back to the menu screen.</string>
+    <string name="solving_a_sudoku">Solving a Sudoku</string>
+    <string name="instructions_3">Fill the numbers as they are given in the Sudoku. Once you have filled all the cells correctly, click on the Solve button to get your Sudoku solved.</string>
+    <string name="select_difficulty">SELECT DIFFICULTY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="easy">EASY</string>
+</resources>
